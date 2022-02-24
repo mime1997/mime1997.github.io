@@ -1,0 +1,2 @@
+!function(){"use strict";Office.initialize=function(i){$(document).ready((function(){$("#info-container").css("display","inline"),$("#info-container").text("Hello World")}))}}();
+//# sourceMappingURL=dialog.js.map
