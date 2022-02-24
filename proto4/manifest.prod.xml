@@ -6,8 +6,8 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Enycon SOI AddIn - Prototype"/>
   <Description DefaultValue="Prototype 3.4 of Enycon SOI AddIn: 3.3 and SAP user"/>
-  <IconUrl DefaultValue="https://mime1997.github.io/assets/icon-enycon.png"/>
-  <HighResolutionIconUrl DefaultValue="https://mime1997.github.io/assets/icon-enycon.png"/>
+  <IconUrl DefaultValue="https://mime1997.github.io/proto4/assets/icon-enycon.png"/>
+  <HighResolutionIconUrl DefaultValue="https://mime1997.github.io/proto4/assets/icon-enycon.png"/>
   <SupportUrl DefaultValue="https://www.contoso.com/help"/>
   <AppDomains>
     <AppDomain>https://api.openweathermap.org</AppDomain>
@@ -24,7 +24,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://mime1997.github.io/taskpane.html"/>
+        <SourceLocation DefaultValue="https://mime1997.github.io/proto4/taskpane.html"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -86,13 +86,13 @@
     </Hosts>
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://mime1997.github.io/assets/icon-enycon.png"/>
-        <bt:Image id="Icon.32x32" DefaultValue="https://mime1997.github.io/assets/icon-enycon.png"/>
-        <bt:Image id="Icon.80x80" DefaultValue="https://mime1997.github.io/assets/icon-enycon.png"/>
+        <bt:Image id="Icon.16x16" DefaultValue="https://mime1997.github.io/proto4/assets/icon-enycon.png"/>
+        <bt:Image id="Icon.32x32" DefaultValue="https://mime1997.github.io/proto4/assets/icon-enycon.png"/>
+        <bt:Image id="Icon.80x80" DefaultValue="https://mime1997.github.io/proto4/assets/icon-enycon.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="Commands.Url" DefaultValue="https://mime1997.github.io/commands.html"/>
-        <bt:Url id="Taskpane.Url" DefaultValue="https://mime1997.github.io/taskpane.html"/>
+        <bt:Url id="Commands.Url" DefaultValue="https://mime1997.github.io/proto4/commands.html"/>
+        <bt:Url id="Taskpane.Url" DefaultValue="https://mime1997.github.io/proto4/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GroupLabel" DefaultValue="Enycon AddIn"/>
